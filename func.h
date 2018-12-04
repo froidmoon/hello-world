@@ -53,6 +53,6 @@ public:
 
 void playerdo(player&,monster&); //操作模块
 void eqpd(player&,eqp&);//装备模块
-void printting(player&);//物品菜单模块
-
-#endif 
+void  printting（player ＆）; //物品菜单模块
+//
+＃万一 
